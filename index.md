@@ -6,7 +6,7 @@ for Operating Systems Courses
 Here are some useful links:
 
 - [Repository](https://github.com/NicoFathiRizqi/os212)  
-- [Log](https://github.com/NicoFathiRizqi/os212/blob/main/TXT/mylog.txt)  
+- [Log](https://raw.githubusercontent.com/NicoFathiRizqi/os212/main/TXT/mylog.txt)  
 - [Links](links.md)
 
 
