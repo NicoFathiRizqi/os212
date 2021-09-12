@@ -1,5 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 L12 30 Creating github as part of assignment
-ZCZC W01 L05 5 Doing first quiz
+ZCZC W00 30 L12 Creating github as part of assignment
+ZCZC W01 5 L05 Doing first quiz
+ZCZC W01 30 L11 Doing Assignment #01
+ZCZC W01 30 L12 Doing Assignment #02: Downloading and importing OVA
+ZCZC W01 120 L13 Doing Assignment #03: GSG and Read self-learning assignment
+ZCZC W01 60 L14 Assignment #04: Get used to VM machine
+ZCZC W01 30 L15 Assignment #05: Generate SSH key and connect it to GitHub
+ZCZC W01 60 L16 Assignment #06: Creating better GitHub page
+ZCZC W01 15 L17 Assignment #07: Literally writing this log
+ZCZC W01 60 L18 Assignment #08: Learn scripting command
+ZCZC W01 40 L19 Assignment #09: Self reading assignment
+ZCZC W01 30 L28 PuTTY setup
