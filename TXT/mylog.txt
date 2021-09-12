@@ -1,4 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 L12 Creating github as part of assignment
+ZCZC W00 L12 30 Creating github as part of assignment
+ZCZC W01 L05 5 Doing first quiz
