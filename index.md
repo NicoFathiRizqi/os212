@@ -7,6 +7,6 @@ Here are some useful links:
 
 - [Repository](https://github.com/NicoFathiRizqi/os212)  
 - [Log](https://github.com/NicoFathiRizqi/os212/blob/main/TXT/mylog.txt)  
-- [Links](LINKS)
+- [Links](links.md)
 
 
