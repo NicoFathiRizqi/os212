@@ -1,5 +1,5 @@
 # Log Format
-# ZCZC WEEK# MINUTES LogCode Description
+# ZCZC WEEK MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 30 L12 Creating github as part of assignment
 ZCZC W01 5 L05 Doing first quiz
@@ -25,3 +25,12 @@ ZCZC W02 30 L19 Updating mylinks in my github pages
 ZCZC W02 15 L20 Review my peer links
 ZCZC W02 20 L09 Writing myscript.sh (more like copy paste from cbkadal)
 ZCZC W02 30 L09 Updating this log in vi editor (to avoid CRLF format in windows)
+ZCZC W03 45 L11 Self reading assignment
+ZCZC W03 45 L12 Try demos
+ZCZC W03 30 L13 Learn from previous exercise
+ZCZC W03 5 L14 update .bash-aliases
+ZCZC W03 30 L15 adding an extra virtual disk for my virtual box debian
+ZCZC W03 15 L16 Adding some new links
+ZCZC W03 30 L17 Give my score for my friend's link
+ZCZC W03 15 L18 Writing this Log
+ZCZC W03 15 L19 Submitting my assigntment (with myscript.sh and 4 git mantras obviously)
