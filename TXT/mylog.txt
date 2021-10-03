@@ -34,3 +34,12 @@ ZCZC W03 15 L16 Adding some new links
 ZCZC W03 30 L17 Give my score for my friend's link
 ZCZC W03 15 L18 Writing this Log
 ZCZC W03 15 L19 Submitting my assigntment (with myscript.sh and 4 git mantras obviously)
+ZCZC W04 45 L11 Reading assigntment
+ZCZC W04 30 L12 Try Demos
+ZCZC W04 30 L13 Doing some midterms problems 
+ZCZC W04 1  L14 Install package (it took me 3 second tho)
+ZCZC W04 15 L15 Fetch and decrpyt WEEK04.tar.bz.asc
+ZCZC W04 30 L16 Link Update
+ZCZC W04 15 L17 Scoring my peer
+ZCZC W04 10 L18 Writing this log
+ZCZC W04 10 L19 Submitting this week assigntment
