@@ -42,4 +42,12 @@ ZCZC W04 15 L15 Fetch and decrpyt WEEK04.tar.bz.asc
 ZCZC W04 30 L16 Link Update
 ZCZC W04 15 L17 Scoring my peer
 ZCZC W04 10 L18 Writing this log
-ZCZC W04 10 L19 Submitting this week assigntment
+ZCZC W04 10 L19 Submitting this week assigntmen
+ZCZC W05 30 L11 Self reading assignment
+ZCZC W05 30 L12 Try demos
+ZCZC W05 60 L13 MidTerm Exercise
+ZCZC W05 45 L14 Start virtual guest with lowest memory (186 MB is the lowest it can go). Also doing fetch tarball and make a change in memory2.c
+ZCZC W05 15 L15 Update links
+ZCZC W05 15 L17 Review my peer links
+ZCZC W05 20 L18 Updating this log
+ZCZC W05 10 L19 Submit (with encryption)
