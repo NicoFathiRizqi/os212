@@ -25,3 +25,6 @@ as I'm still new to it
 6. [Part 2 of CyberSecurity](https://www.youtube.com/watch?v=CivG_2UqKMg)  
    Next part from previous link  
 
+7. [git config](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)  
+   Instruction to setup your gitconfig
+
