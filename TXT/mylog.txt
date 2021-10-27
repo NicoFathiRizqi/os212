@@ -51,3 +51,11 @@ ZCZC W05 15 L15 Update links
 ZCZC W05 15 L17 Review my peer links
 ZCZC W05 20 L18 Updating this log
 ZCZC W05 10 L19 Submit (with encryption)
+ZCZC W06 10 L11 Reading Assigment
+ZCZC W06 30 L12 Try This Week Demos
+ZCZC W06 45 L13 Look at midterms problems
+ZCZC W06 30 L14 Extract TarBall file 
+ZCZC W06 30 L15 Link Updates
+ZCZC W06 15 L17 Review my peer links at their github pages
+ZCZC W06 15 L18 Writing this log
+ZCZC W06 10 L19 Submit assignment
