@@ -59,3 +59,11 @@ ZCZC W06 30 L15 Link Updates
 ZCZC W06 15 L17 Review my peer links at their github pages
 ZCZC W06 15 L18 Writing this log
 ZCZC W06 10 L19 Submit assignment
+ZCZC W07 10 L11 Self Reading Assignment
+ZCZC W07 30 L12 Try Demos
+ZCZC W07 60 L13 Check Midterm Problem
+ZCZC W07 30 L14 Extract tarball file and bash readme. Getting file from os1.cs.ui.ac.id
+ZCZC W07 30 L15 Link Updates
+ZCZC W07 30 L17 Review my peer links
+ZCZC W07 15 L18 Writing this log
+ZCZC W07 10 L19 Submit assignment with check sum and git hub

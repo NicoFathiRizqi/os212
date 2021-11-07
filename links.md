@@ -28,3 +28,5 @@ as I'm still new to it
 7. [git config](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)  
    Instruction to setup your gitconfig
 
+8. [linux guide](https://www.youtube.com/watch?v=GJ2dMhqMW74&ab_channel=BenGKaiser)
+   Explain how processor work
