@@ -30,3 +30,6 @@ as I'm still new to it
 
 8. [linux guide](https://www.youtube.com/watch?v=GJ2dMhqMW74&ab_channel=BenGKaiser)
    Explain how processor work
+
+9. [Official LFS website](linuxfromscratch.org)
+   Official website to create your own linux from scratch.

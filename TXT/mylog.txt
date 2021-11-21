@@ -67,3 +67,12 @@ ZCZC W07 30 L15 Link Updates
 ZCZC W07 30 L17 Review my peer links
 ZCZC W07 15 L18 Writing this log
 ZCZC W07 10 L19 Submit assignment with check sum and git hub
+ZCZC W09 10 L11 REading assingment
+ZCZC W09 13 L12 This week demos
+ZCZC W09 40 L13 midterm problems
+ZCZC W09 180 L14 Doing chapter 5 and 6 of lfs
+ZCZC W09 30 L15 Link updates
+ZCZC W09 20 L17 peer link review
+ZCZC W09 30 L18 Writing this log
+ZCZC W09 14 L19 Submit assignment
+
