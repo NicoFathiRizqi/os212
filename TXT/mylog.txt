@@ -75,4 +75,11 @@ ZCZC W09 30 L15 Link updates
 ZCZC W09 20 L17 peer link review
 ZCZC W09 30 L18 Writing this log
 ZCZC W09 14 L19 Submit assignment
-
+ZCZC W10 30 L11 REading assignment
+ZCZC W10 45 L12 Try demos
+ZCZC W10 30 L13 Try midterm problems
+ZCZC W10 180 L14 LFS
+ZCZC W10 15 L15 Update Links
+ZCZC W10 10 L17 Peer Review
+ZCZC W10 20 L18 log update
+ZCZC W10 20 L19 Submit
